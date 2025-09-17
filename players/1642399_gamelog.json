@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "GAME_DATE": "Mar 04, 2025",
+      "MATCHUP": "MIN vs. PHI",
+      "MIN": 3.0,
+      "FGM": 0,
+      "FGA": 0,
+      "FG3M": 0,
+      "FG3A": 0,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 1,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 2,
+      "PTS": 0,
+      "PLUS_MINUS": -7
+    },
+    {
+      "GAME_DATE": "Mar 02, 2025",
+      "MATCHUP": "MIN @ PHX",
+      "MIN": 2.0,
+      "FGM": 0,
+      "FGA": 0,
+      "FG3M": 0,
+      "FG3A": 0,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 0,
+      "PTS": 0,
+      "PLUS_MINUS": -3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "GAME_DATE": "Jan 13, 2025",
+      "MATCHUP": "LAL vs. SAS",
+      "MIN": 2.0,
+      "FGM": 0,
+      "FGA": 2,
+      "FG3M": 0,
+      "FG3A": 2,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 1,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 0,
+      "PTS": 0,
+      "PLUS_MINUS": -5
+    },
+    {
+      "GAME_DATE": "Dec 08, 2024",
+      "MATCHUP": "LAL vs. POR",
+      "MIN": 8.0,
+      "FGM": 1,
+      "FGA": 3,
+      "FG3M": 1,
+      "FG3A": 3,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 0,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 1,
+      "PF": 0,
+      "PTS": 3,
+      "PLUS_MINUS": -13
+    }
+  ]
+}

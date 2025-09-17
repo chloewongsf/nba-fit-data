@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "GAME_DATE": "Apr 13, 2025",
+      "MATCHUP": "DET @ MIL",
+      "MIN": 17.0,
+      "FGM": 1,
+      "FGA": 8,
+      "FG3M": 0,
+      "FG3A": 6,
+      "FTM": 2,
+      "FTA": 2,
+      "OREB": 4,
+      "DREB": 3,
+      "REB": 7,
+      "AST": 2,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 0,
+      "PTS": 4,
+      "PLUS_MINUS": -1
+    }
+  ]
+}

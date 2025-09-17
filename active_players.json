@@ -1,0 +1,2284 @@
+{
+  "players": [
+    {
+      "player_id": 1630173,
+      "name": "Precious Achiuwa"
+    },
+    {
+      "player_id": 203500,
+      "name": "Steven Adams"
+    },
+    {
+      "player_id": 1628389,
+      "name": "Bam Adebayo"
+    },
+    {
+      "player_id": 1630534,
+      "name": "Ochai Agbaji"
+    },
+    {
+      "player_id": 1630583,
+      "name": "Santi Aldama"
+    },
+    {
+      "player_id": 1641725,
+      "name": "Trey Alexander"
+    },
+    {
+      "player_id": 1629638,
+      "name": "Nickeil Alexander-Walker"
+    },
+    {
+      "player_id": 1628960,
+      "name": "Grayson Allen"
+    },
+    {
+      "player_id": 1628386,
+      "name": "Jarrett Allen"
+    },
+    {
+      "player_id": 1630631,
+      "name": "Jose Alvarado"
+    },
+    {
+      "player_id": 203937,
+      "name": "Kyle Anderson"
+    },
+    {
+      "player_id": 203507,
+      "name": "Giannis Antetokounmpo"
+    },
+    {
+      "player_id": 1630175,
+      "name": "Cole Anthony"
+    },
+    {
+      "player_id": 1628384,
+      "name": "OG Anunoby"
+    },
+    {
+      "player_id": 1630166,
+      "name": "Deni Avdija"
+    },
+    {
+      "player_id": 1629028,
+      "name": "Deandre Ayton"
+    },
+    {
+      "player_id": 1630542,
+      "name": "Marcus Bagley"
+    },
+    {
+      "player_id": 1628963,
+      "name": "Marvin Bagley III"
+    },
+    {
+      "player_id": 1631116,
+      "name": "Patrick Baldwin Jr."
+    },
+    {
+      "player_id": 1630163,
+      "name": "LaMelo Ball"
+    },
+    {
+      "player_id": 1628366,
+      "name": "Lonzo Ball"
+    },
+    {
+      "player_id": 1628964,
+      "name": "Mo Bamba"
+    },
+    {
+      "player_id": 1631094,
+      "name": "Paolo Banchero"
+    },
+    {
+      "player_id": 1630217,
+      "name": "Desmond Bane"
+    },
+    {
+      "player_id": 1630625,
+      "name": "Dalano Banton"
+    },
+    {
+      "player_id": 1631230,
+      "name": "Dominick Barlow"
+    },
+    {
+      "player_id": 203084,
+      "name": "Harrison Barnes"
+    },
+    {
+      "player_id": 1630567,
+      "name": "Scottie Barnes"
+    },
+    {
+      "player_id": 1629628,
+      "name": "RJ Barrett"
+    },
+    {
+      "player_id": 1629646,
+      "name": "Charles Bassey"
+    },
+    {
+      "player_id": 1641734,
+      "name": "Emoni Bates"
+    },
+    {
+      "player_id": 1642419,
+      "name": "Jamison Battle"
+    },
+    {
+      "player_id": 201587,
+      "name": "Nicolas Batum"
+    },
+    {
+      "player_id": 1641878,
+      "name": "Damion Baugh"
+    },
+    {
+      "player_id": 203078,
+      "name": "Bradley Beal"
+    },
+    {
+      "player_id": 1627736,
+      "name": "Malik Beasley"
+    },
+    {
+      "player_id": 1630699,
+      "name": "MarJon Beauchamp"
+    },
+    {
+      "player_id": 1641736,
+      "name": "Reece Beekman"
+    },
+    {
+      "player_id": 1629048,
+      "name": "Goga Bitadze"
+    },
+    {
+      "player_id": 202687,
+      "name": "Bismack Biyombo"
+    },
+    {
+      "player_id": 1641710,
+      "name": "Anthony Black"
+    },
+    {
+      "player_id": 203992,
+      "name": "Bogdan Bogdanovi\u0107"
+    },
+    {
+      "player_id": 1629626,
+      "name": "Bol Bol"
+    },
+    {
+      "player_id": 1641737,
+      "name": "Adem Bona"
+    },
+    {
+      "player_id": 1626164,
+      "name": "Devin Booker"
+    },
+    {
+      "player_id": 1630527,
+      "name": "Brandon Boston"
+    },
+    {
+      "player_id": 1628449,
+      "name": "Chris Boucher"
+    },
+    {
+      "player_id": 1631123,
+      "name": "Jamaree Bouyea"
+    },
+    {
+      "player_id": 1628396,
+      "name": "Tony Bradley"
+    },
+    {
+      "player_id": 1631103,
+      "name": "Malaki Branham"
+    },
+    {
+      "player_id": 1631128,
+      "name": "Christian Braun"
+    },
+    {
+      "player_id": 1641779,
+      "name": "Jalen Bridges"
+    },
+    {
+      "player_id": 1628969,
+      "name": "Mikal Bridges"
+    },
+    {
+      "player_id": 1628970,
+      "name": "Miles Bridges"
+    },
+    {
+      "player_id": 1629052,
+      "name": "Oshae Brissett"
+    },
+    {
+      "player_id": 1627763,
+      "name": "Malcolm Brogdon"
+    },
+    {
+      "player_id": 1628415,
+      "name": "Dillon Brooks"
+    },
+    {
+      "player_id": 1631232,
+      "name": "Keion Brooks Jr."
+    },
+    {
+      "player_id": 1628971,
+      "name": "Bruce Brown"
+    },
+    {
+      "player_id": 1627759,
+      "name": "Jaylen Brown"
+    },
+    {
+      "player_id": 1641738,
+      "name": "Kobe Brown"
+    },
+    {
+      "player_id": 1629650,
+      "name": "Moses Brown"
+    },
+    {
+      "player_id": 1628973,
+      "name": "Jalen Brunson"
+    },
+    {
+      "player_id": 1628418,
+      "name": "Thomas Bryant"
+    },
+    {
+      "player_id": 1641723,
+      "name": "Kobe Bufkin"
+    },
+    {
+      "player_id": 202692,
+      "name": "Alec Burks"
+    },
+    {
+      "player_id": 1630215,
+      "name": "Jared Butler"
+    },
+    {
+      "player_id": 202710,
+      "name": "Jimmy Butler III"
+    },
+    {
+      "player_id": 1641824,
+      "name": "Matas Buzelis"
+    },
+    {
+      "player_id": 1631288,
+      "name": "Jamal Cain"
+    },
+    {
+      "player_id": 203484,
+      "name": "Kentavious Caldwell-Pope"
+    },
+    {
+      "player_id": 1641739,
+      "name": "Toumani Camara"
+    },
+    {
+      "player_id": 203991,
+      "name": "Clint Capela"
+    },
+    {
+      "player_id": 1642382,
+      "name": "Branden Carlson"
+    },
+    {
+      "player_id": 1642267,
+      "name": "Bub Carrington"
+    },
+    {
+      "player_id": 1642269,
+      "name": "Devin Carter"
+    },
+    {
+      "player_id": 1628975,
+      "name": "Jevon Carter"
+    },
+    {
+      "player_id": 1628976,
+      "name": "Wendell Carter Jr."
+    },
+    {
+      "player_id": 1630618,
+      "name": "D.J. Carton"
+    },
+    {
+      "player_id": 1627936,
+      "name": "Alex Caruso"
+    },
+    {
+      "player_id": 1642264,
+      "name": "Stephon Castle"
+    },
+    {
+      "player_id": 1630658,
+      "name": "Colin Castleton"
+    },
+    {
+      "player_id": 1630577,
+      "name": "Julian Champagnie"
+    },
+    {
+      "player_id": 1630551,
+      "name": "Justin Champagnie"
+    },
+    {
+      "player_id": 1642279,
+      "name": "Ulrich Chomche"
+    },
+    {
+      "player_id": 1642353,
+      "name": "Cam Christie"
+    },
+    {
+      "player_id": 1631108,
+      "name": "Max Christie"
+    },
+    {
+      "player_id": 1630528,
+      "name": "Josh Christopher"
+    },
+    {
+      "player_id": 1631321,
+      "name": "Sidy Cissoko"
+    },
+    {
+      "player_id": 1641740,
+      "name": "Jaylen Clark"
+    },
+    {
+      "player_id": 1629634,
+      "name": "Brandon Clarke"
+    },
+    {
+      "player_id": 203903,
+      "name": "Jordan Clarkson"
+    },
+    {
+      "player_id": 1629651,
+      "name": "Nic Claxton"
+    },
+    {
+      "player_id": 1642270,
+      "name": "Donovan Clingan"
+    },
+    {
+      "player_id": 1641730,
+      "name": "Noah Clowney"
+    },
+    {
+      "player_id": 1629599,
+      "name": "Amir Coffey"
+    },
+    {
+      "player_id": 1642268,
+      "name": "Isaiah Collier"
+    },
+    {
+      "player_id": 1628381,
+      "name": "John Collins"
+    },
+    {
+      "player_id": 1641879,
+      "name": "Yuri Collins"
+    },
+    {
+      "player_id": 1628380,
+      "name": "Zach Collins"
+    },
+    {
+      "player_id": 201144,
+      "name": "Mike Conley"
+    },
+    {
+      "player_id": 1626192,
+      "name": "Pat Connaughton"
+    },
+    {
+      "player_id": 1641731,
+      "name": "Bilal Coulibaly"
+    },
+    {
+      "player_id": 1641741,
+      "name": "Ricky Council IV"
+    },
+    {
+      "player_id": 1628470,
+      "name": "Torrey Craig"
+    },
+    {
+      "player_id": 1642384,
+      "name": "Isaiah Crawford"
+    },
+    {
+      "player_id": 203109,
+      "name": "Jae Crowder"
+    },
+    {
+      "player_id": 1630595,
+      "name": "Cade Cunningham"
+    },
+    {
+      "player_id": 203552,
+      "name": "Seth Curry"
+    },
+    {
+      "player_id": 201939,
+      "name": "Stephen Curry"
+    },
+    {
+      "player_id": 1642359,
+      "name": "Pac\u00f4me Dadiet"
+    },
+    {
+      "player_id": 1630700,
+      "name": "Dyson Daniels"
+    },
+    {
+      "player_id": 1642368,
+      "name": "N'Faly Dante"
+    },
+    {
+      "player_id": 203076,
+      "name": "Anthony Davis"
+    },
+    {
+      "player_id": 1631098,
+      "name": "Johnny Davis"
+    },
+    {
+      "player_id": 1629056,
+      "name": "Terence Davis"
+    },
+    {
+      "player_id": 1631120,
+      "name": "JD Davison"
+    },
+    {
+      "player_id": 201942,
+      "name": "DeMar DeRozan"
+    },
+    {
+      "player_id": 1642484,
+      "name": "RayJ Dennis"
+    },
+    {
+      "player_id": 1628978,
+      "name": "Donte DiVincenzo"
+    },
+    {
+      "player_id": 1631217,
+      "name": "Moussa Diabat\u00e9"
+    },
+    {
+      "player_id": 1641711,
+      "name": "Gradey Dick"
+    },
+    {
+      "player_id": 1631172,
+      "name": "Ousmane Dieng"
+    },
+    {
+      "player_id": 1642265,
+      "name": "Rob Dillingham"
+    },
+    {
+      "player_id": 203915,
+      "name": "Spencer Dinwiddie"
+    },
+    {
+      "player_id": 1629029,
+      "name": "Luka Don\u010di\u0107"
+    },
+    {
+      "player_id": 1629652,
+      "name": "Luguentz Dort"
+    },
+    {
+      "player_id": 1630245,
+      "name": "Ayo Dosunmu"
+    },
+    {
+      "player_id": 1630288,
+      "name": "Jeff Dowtin Jr."
+    },
+    {
+      "player_id": 1628408,
+      "name": "PJ Dozier"
+    },
+    {
+      "player_id": 203083,
+      "name": "Andre Drummond"
+    },
+    {
+      "player_id": 1630537,
+      "name": "Chris Duarte"
+    },
+    {
+      "player_id": 1642505,
+      "name": "Alex Ducas"
+    },
+    {
+      "player_id": 1630561,
+      "name": "David Duke Jr."
+    },
+    {
+      "player_id": 1627739,
+      "name": "Kris Dunn"
+    },
+    {
+      "player_id": 1642346,
+      "name": "Ryan Dunn"
+    },
+    {
+      "player_id": 201142,
+      "name": "Kevin Durant"
+    },
+    {
+      "player_id": 1631105,
+      "name": "Jalen Duren"
+    },
+    {
+      "player_id": 1631106,
+      "name": "Tari Eason"
+    },
+    {
+      "player_id": 1641744,
+      "name": "Zach Edey"
+    },
+    {
+      "player_id": 1630162,
+      "name": "Anthony Edwards"
+    },
+    {
+      "player_id": 1642399,
+      "name": "Jesse Edwards"
+    },
+    {
+      "player_id": 1642348,
+      "name": "Justin Edwards"
+    },
+    {
+      "player_id": 1630556,
+      "name": "Kessler Edwards"
+    },
+    {
+      "player_id": 1631165,
+      "name": "Keon Ellis"
+    },
+    {
+      "player_id": 203954,
+      "name": "Joel Embiid"
+    },
+    {
+      "player_id": 1630623,
+      "name": "Tyson Etienne"
+    },
+    {
+      "player_id": 1629234,
+      "name": "Drew Eubanks"
+    },
+    {
+      "player_id": 1641787,
+      "name": "Tosan Evbuomwan"
+    },
+    {
+      "player_id": 203957,
+      "name": "Dant\u00e9 Exum"
+    },
+    {
+      "player_id": 1628981,
+      "name": "Bruno Fernando"
+    },
+    {
+      "player_id": 1642271,
+      "name": "Kyle Filipowski"
+    },
+    {
+      "player_id": 1627827,
+      "name": "Dorian Finney-Smith"
+    },
+    {
+      "player_id": 1641745,
+      "name": "Adam Flagler"
+    },
+    {
+      "player_id": 1642280,
+      "name": "Trentyn Flowers"
+    },
+    {
+      "player_id": 1630201,
+      "name": "Malachi Flynn"
+    },
+    {
+      "player_id": 1631323,
+      "name": "Simone Fontecchio"
+    },
+    {
+      "player_id": 1628368,
+      "name": "De'Aaron Fox"
+    },
+    {
+      "player_id": 1642402,
+      "name": "Enrique Freeman"
+    },
+    {
+      "player_id": 1628365,
+      "name": "Markelle Fultz"
+    },
+    {
+      "player_id": 1642277,
+      "name": "Johnny Furphy"
+    },
+    {
+      "player_id": 1629655,
+      "name": "Daniel Gafford"
+    },
+    {
+      "player_id": 1629636,
+      "name": "Darius Garland"
+    },
+    {
+      "player_id": 1630585,
+      "name": "Marcus Garrett"
+    },
+    {
+      "player_id": 1630568,
+      "name": "Luka Garza"
+    },
+    {
+      "player_id": 1641718,
+      "name": "Keyonte George"
+    },
+    {
+      "player_id": 1642273,
+      "name": "Kyshawn George"
+    },
+    {
+      "player_id": 202331,
+      "name": "Paul George"
+    },
+    {
+      "player_id": 201959,
+      "name": "Taj Gibson"
+    },
+    {
+      "player_id": 1630581,
+      "name": "Josh Giddey"
+    },
+    {
+      "player_id": 1628983,
+      "name": "Shai Gilgeous-Alexander"
+    },
+    {
+      "player_id": 1630264,
+      "name": "Anthony Gill"
+    },
+    {
+      "player_id": 1631221,
+      "name": "Collin Gillespie"
+    },
+    {
+      "player_id": 203497,
+      "name": "Rudy Gobert"
+    },
+    {
+      "player_id": 1630692,
+      "name": "Jordan Goodwin"
+    },
+    {
+      "player_id": 203932,
+      "name": "Aaron Gordon"
+    },
+    {
+      "player_id": 201569,
+      "name": "Eric Gordon"
+    },
+    {
+      "player_id": 1641789,
+      "name": "Jazian Gortman"
+    },
+    {
+      "player_id": 203924,
+      "name": "Jerami Grant"
+    },
+    {
+      "player_id": 1631260,
+      "name": "AJ Green"
+    },
+    {
+      "player_id": 203110,
+      "name": "Draymond Green"
+    },
+    {
+      "player_id": 1630224,
+      "name": "Jalen Green"
+    },
+    {
+      "player_id": 1629750,
+      "name": "Javonte Green"
+    },
+    {
+      "player_id": 201145,
+      "name": "Jeff Green"
+    },
+    {
+      "player_id": 1630182,
+      "name": "Josh Green"
+    },
+    {
+      "player_id": 1629656,
+      "name": "Quentin Grimes"
+    },
+    {
+      "player_id": 1631243,
+      "name": "Mouhamed Gueye"
+    },
+    {
+      "player_id": 1629060,
+      "name": "Rui Hachimura"
+    },
+    {
+      "player_id": 1630169,
+      "name": "Tyrese Haliburton"
+    },
+    {
+      "player_id": 1641790,
+      "name": "PJ Hall"
+    },
+    {
+      "player_id": 203501,
+      "name": "Tim Hardaway Jr."
+    },
+    {
+      "player_id": 201935,
+      "name": "James Harden"
+    },
+    {
+      "player_id": 1630702,
+      "name": "Jaden Hardy"
+    },
+    {
+      "player_id": 1641989,
+      "name": "Elijah Harkless"
+    },
+    {
+      "player_id": 1631199,
+      "name": "Ron Harper Jr."
+    },
+    {
+      "player_id": 203914,
+      "name": "Gary Harris"
+    },
+    {
+      "player_id": 202699,
+      "name": "Tobias Harris"
+    },
+    {
+      "player_id": 1628404,
+      "name": "Josh Hart"
+    },
+    {
+      "player_id": 1628392,
+      "name": "Isaiah Hartenstein"
+    },
+    {
+      "player_id": 1630573,
+      "name": "Sam Hauser"
+    },
+    {
+      "player_id": 1641722,
+      "name": "Jordan Hawkins"
+    },
+    {
+      "player_id": 1629637,
+      "name": "Jaxson Hayes"
+    },
+    {
+      "player_id": 1630165,
+      "name": "Killian Hayes"
+    },
+    {
+      "player_id": 1630703,
+      "name": "Scoot Henderson"
+    },
+    {
+      "player_id": 1641707,
+      "name": "Taylor Hendricks"
+    },
+    {
+      "player_id": 1629639,
+      "name": "Tyler Herro"
+    },
+    {
+      "player_id": 1627741,
+      "name": "Buddy Hield"
+    },
+    {
+      "player_id": 1629312,
+      "name": "Haywood Highsmith"
+    },
+    {
+      "player_id": 1628988,
+      "name": "Aaron Holiday"
+    },
+    {
+      "player_id": 201950,
+      "name": "Jrue Holiday"
+    },
+    {
+      "player_id": 1641842,
+      "name": "Ronald Holland II"
+    },
+    {
+      "player_id": 1626158,
+      "name": "Richaun Holmes"
+    },
+    {
+      "player_id": 1631096,
+      "name": "Chet Holmgren"
+    },
+    {
+      "player_id": 1641720,
+      "name": "Jalen Hood-Schifino"
+    },
+    {
+      "player_id": 201143,
+      "name": "Al Horford"
+    },
+    {
+      "player_id": 1629659,
+      "name": "Talen Horton-Tucker"
+    },
+    {
+      "player_id": 1631216,
+      "name": "Caleb Houstan"
+    },
+    {
+      "player_id": 1641724,
+      "name": "Jett Howard"
+    },
+    {
+      "player_id": 1628989,
+      "name": "Kevin Huerter"
+    },
+    {
+      "player_id": 1630643,
+      "name": "Jay Huff"
+    },
+    {
+      "player_id": 1630574,
+      "name": "Ariel Hukporti"
+    },
+    {
+      "player_id": 1629631,
+      "name": "De'Andre Hunter"
+    },
+    {
+      "player_id": 1630538,
+      "name": "Bones Hyland"
+    },
+    {
+      "player_id": 1642345,
+      "name": "Oso Ighodaro"
+    },
+    {
+      "player_id": 204060,
+      "name": "Joe Ingles"
+    },
+    {
+      "player_id": 1627742,
+      "name": "Brandon Ingram"
+    },
+    {
+      "player_id": 1631127,
+      "name": "Harrison Ingram"
+    },
+    {
+      "player_id": 202681,
+      "name": "Kyrie Irving"
+    },
+    {
+      "player_id": 1628371,
+      "name": "Jonathan Isaac"
+    },
+    {
+      "player_id": 1631093,
+      "name": "Jaden Ivey"
+    },
+    {
+      "player_id": 1641713,
+      "name": "GG Jackson"
+    },
+    {
+      "player_id": 1630543,
+      "name": "Isaiah Jackson"
+    },
+    {
+      "player_id": 1631245,
+      "name": "Quenton Jackson"
+    },
+    {
+      "player_id": 202704,
+      "name": "Reggie Jackson"
+    },
+    {
+      "player_id": 1641748,
+      "name": "Andre Jackson Jr."
+    },
+    {
+      "player_id": 1628991,
+      "name": "Jaren Jackson Jr."
+    },
+    {
+      "player_id": 1631218,
+      "name": "Trayce Jackson-Davis"
+    },
+    {
+      "player_id": 1642355,
+      "name": "Bronny James"
+    },
+    {
+      "player_id": 2544,
+      "name": "LeBron James"
+    },
+    {
+      "player_id": 1631170,
+      "name": "Jaime Jaquez Jr."
+    },
+    {
+      "player_id": 1629610,
+      "name": "DaQuan Jeffries"
+    },
+    {
+      "player_id": 1641998,
+      "name": "Trey Jemison III"
+    },
+    {
+      "player_id": 1642450,
+      "name": "Daniss Jenkins"
+    },
+    {
+      "player_id": 1629660,
+      "name": "Ty Jerome"
+    },
+    {
+      "player_id": 1630198,
+      "name": "Isaiah Joe"
+    },
+    {
+      "player_id": 1642358,
+      "name": "AJ Johnson"
+    },
+    {
+      "player_id": 1629661,
+      "name": "Cameron Johnson"
+    },
+    {
+      "player_id": 1630552,
+      "name": "Jalen Johnson"
+    },
+    {
+      "player_id": 201949,
+      "name": "James Johnson"
+    },
+    {
+      "player_id": 1629640,
+      "name": "Keldon Johnson"
+    },
+    {
+      "player_id": 1630553,
+      "name": "Keon Johnson"
+    },
+    {
+      "player_id": 1642352,
+      "name": "Keshad Johnson"
+    },
+    {
+      "player_id": 203999,
+      "name": "Nikola Joki\u0107"
+    },
+    {
+      "player_id": 1641732,
+      "name": "Colby Jones"
+    },
+    {
+      "player_id": 1641794,
+      "name": "Dillon Jones"
+    },
+    {
+      "player_id": 1630529,
+      "name": "Herbert Jones"
+    },
+    {
+      "player_id": 1642403,
+      "name": "Isaac Jones"
+    },
+    {
+      "player_id": 1630539,
+      "name": "Kai Jones"
+    },
+    {
+      "player_id": 1630222,
+      "name": "Mason Jones"
+    },
+    {
+      "player_id": 1642461,
+      "name": "Spencer Jones"
+    },
+    {
+      "player_id": 1630200,
+      "name": "Tre Jones"
+    },
+    {
+      "player_id": 1626145,
+      "name": "Tyus Jones"
+    },
+    {
+      "player_id": 1627884,
+      "name": "Derrick Jones Jr."
+    },
+    {
+      "player_id": 201599,
+      "name": "DeAndre Jordan"
+    },
+    {
+      "player_id": 202709,
+      "name": "Cory Joseph"
+    },
+    {
+      "player_id": 1631107,
+      "name": "Nikola Jovi\u0107"
+    },
+    {
+      "player_id": 1630548,
+      "name": "Johnny Juzang"
+    },
+    {
+      "player_id": 1642530,
+      "name": "Yuki Kawamura"
+    },
+    {
+      "player_id": 1630283,
+      "name": "Kylor Kelley"
+    },
+    {
+      "player_id": 1628379,
+      "name": "Luke Kennard"
+    },
+    {
+      "player_id": 1631117,
+      "name": "Walker Kessler"
+    },
+    {
+      "player_id": 1630296,
+      "name": "Braxton Key"
+    },
+    {
+      "player_id": 1630557,
+      "name": "Corey Kispert"
+    },
+    {
+      "player_id": 1628467,
+      "name": "Maxi Kleber"
+    },
+    {
+      "player_id": 1641752,
+      "name": "Bobi Klintman"
+    },
+    {
+      "player_id": 1642261,
+      "name": "Dalton Knecht"
+    },
+    {
+      "player_id": 1628995,
+      "name": "Kevin Knox II"
+    },
+    {
+      "player_id": 1642278,
+      "name": "Tyler Kolek"
+    },
+    {
+      "player_id": 1631132,
+      "name": "Christian Koloko"
+    },
+    {
+      "player_id": 1629723,
+      "name": "John Konchar"
+    },
+    {
+      "player_id": 1628436,
+      "name": "Luke Kornet"
+    },
+    {
+      "player_id": 1630249,
+      "name": "V\u00edt Krej\u010d\u00ed"
+    },
+    {
+      "player_id": 1630228,
+      "name": "Jonathan Kuminga"
+    },
+    {
+      "player_id": 1628398,
+      "name": "Kyle Kuzma"
+    },
+    {
+      "player_id": 1631222,
+      "name": "Jake LaRavia"
+    },
+    {
+      "player_id": 203897,
+      "name": "Zach LaVine"
+    },
+    {
+      "player_id": 1627746,
+      "name": "Skal Labissiere"
+    },
+    {
+      "player_id": 1629111,
+      "name": "Jock Landale"
+    },
+    {
+      "player_id": 1641796,
+      "name": "Pelle Larsson"
+    },
+    {
+      "player_id": 1630639,
+      "name": "A.J. Lawson"
+    },
+    {
+      "player_id": 1627747,
+      "name": "Caris LeVert"
+    },
+    {
+      "player_id": 1627814,
+      "name": "Damion Lee"
+    },
+    {
+      "player_id": 203458,
+      "name": "Alex Len"
+    },
+    {
+      "player_id": 202695,
+      "name": "Kawhi Leonard"
+    },
+    {
+      "player_id": 1642502,
+      "name": "Malevy Leons"
+    },
+    {
+      "player_id": 1641721,
+      "name": "Maxwell Lewis"
+    },
+    {
+      "player_id": 1630604,
+      "name": "E.J. Liddell"
+    },
+    {
+      "player_id": 203081,
+      "name": "Damian Lillard"
+    },
+    {
+      "player_id": 1641726,
+      "name": "Dereck Lively II"
+    },
+    {
+      "player_id": 1641753,
+      "name": "Chris Livingston"
+    },
+    {
+      "player_id": 1626172,
+      "name": "Kevon Looney"
+    },
+    {
+      "player_id": 201572,
+      "name": "Brook Lopez"
+    },
+    {
+      "player_id": 201567,
+      "name": "Kevin Love"
+    },
+    {
+      "player_id": 200768,
+      "name": "Kyle Lowry"
+    },
+    {
+      "player_id": 1641754,
+      "name": "Seth Lundy"
+    },
+    {
+      "player_id": 1626168,
+      "name": "Trey Lyles"
+    },
+    {
+      "player_id": 1630572,
+      "name": "Sandro Mamukelashvili"
+    },
+    {
+      "player_id": 1629611,
+      "name": "Terance Mann"
+    },
+    {
+      "player_id": 1630544,
+      "name": "Tre Mann"
+    },
+    {
+      "player_id": 1628374,
+      "name": "Lauri Markkanen"
+    },
+    {
+      "player_id": 1630230,
+      "name": "Naji Marshall"
+    },
+    {
+      "player_id": 1628997,
+      "name": "Caleb Martin"
+    },
+    {
+      "player_id": 1628998,
+      "name": "Cody Martin"
+    },
+    {
+      "player_id": 1641798,
+      "name": "Jaylen Martin"
+    },
+    {
+      "player_id": 1630231,
+      "name": "KJ Martin"
+    },
+    {
+      "player_id": 1631213,
+      "name": "Tyrese Martin"
+    },
+    {
+      "player_id": 1629726,
+      "name": "Garrison Mathews"
+    },
+    {
+      "player_id": 1631097,
+      "name": "Bennedict Mathurin"
+    },
+    {
+      "player_id": 1631255,
+      "name": "Karlo Matkovi\u0107"
+    },
+    {
+      "player_id": 1630178,
+      "name": "Tyrese Maxey"
+    },
+    {
+      "player_id": 1630540,
+      "name": "Miles McBride"
+    },
+    {
+      "player_id": 1642272,
+      "name": "Jared McCain"
+    },
+    {
+      "player_id": 1630644,
+      "name": "Mac McClung"
+    },
+    {
+      "player_id": 203468,
+      "name": "CJ McCollum"
+    },
+    {
+      "player_id": 204456,
+      "name": "T.J. McConnell"
+    },
+    {
+      "player_id": 1641755,
+      "name": "Kevin McCullar Jr."
+    },
+    {
+      "player_id": 1630183,
+      "name": "Jaden McDaniels"
+    },
+    {
+      "player_id": 1629667,
+      "name": "Jalen McDaniels"
+    },
+    {
+      "player_id": 203926,
+      "name": "Doug McDermott"
+    },
+    {
+      "player_id": 1631121,
+      "name": "Bryce McGowens"
+    },
+    {
+      "player_id": 1629162,
+      "name": "Jordan McLaughlin"
+    },
+    {
+      "player_id": 1629098,
+      "name": "Jack McVeigh"
+    },
+    {
+      "player_id": 1629001,
+      "name": "De'Anthony Melton"
+    },
+    {
+      "player_id": 1630241,
+      "name": "Sam Merrill"
+    },
+    {
+      "player_id": 203995,
+      "name": "Vasilije Micic"
+    },
+    {
+      "player_id": 203114,
+      "name": "Khris Middleton"
+    },
+    {
+      "player_id": 1641706,
+      "name": "Brandon Miller"
+    },
+    {
+      "player_id": 1641801,
+      "name": "Emanuel Miller"
+    },
+    {
+      "player_id": 1641757,
+      "name": "Jordan Miller"
+    },
+    {
+      "player_id": 1631159,
+      "name": "Leonard Miller"
+    },
+    {
+      "player_id": 201988,
+      "name": "Patty Mills"
+    },
+    {
+      "player_id": 1629003,
+      "name": "Shake Milton"
+    },
+    {
+      "player_id": 1631303,
+      "name": "Justin Minaya"
+    },
+    {
+      "player_id": 1642434,
+      "name": "Riley Minix"
+    },
+    {
+      "player_id": 1631169,
+      "name": "Josh Minott"
+    },
+    {
+      "player_id": 1642274,
+      "name": "Yves Missi"
+    },
+    {
+      "player_id": 1642349,
+      "name": "Ajay Mitchell"
+    },
+    {
+      "player_id": 1630558,
+      "name": "Davion Mitchell"
+    },
+    {
+      "player_id": 1628378,
+      "name": "Donovan Mitchell"
+    },
+    {
+      "player_id": 1630596,
+      "name": "Evan Mobley"
+    },
+    {
+      "player_id": 1630600,
+      "name": "Isaiah Mobley"
+    },
+    {
+      "player_id": 1642367,
+      "name": "Jonathan Mogbo"
+    },
+    {
+      "player_id": 1628370,
+      "name": "Malik Monk"
+    },
+    {
+      "player_id": 1630541,
+      "name": "Moses Moody"
+    },
+    {
+      "player_id": 1631386,
+      "name": "Taze Moore"
+    },
+    {
+      "player_id": 1631111,
+      "name": "Wendell Moore Jr."
+    },
+    {
+      "player_id": 1629630,
+      "name": "Ja Morant"
+    },
+    {
+      "player_id": 202693,
+      "name": "Markieff Morris"
+    },
+    {
+      "player_id": 1628420,
+      "name": "Mont\u00e9 Morris"
+    },
+    {
+      "player_id": 1630530,
+      "name": "Trey Murphy III"
+    },
+    {
+      "player_id": 1627749,
+      "name": "Dejounte Murray"
+    },
+    {
+      "player_id": 1627750,
+      "name": "Jamal Murray"
+    },
+    {
+      "player_id": 1631099,
+      "name": "Keegan Murray"
+    },
+    {
+      "player_id": 1631200,
+      "name": "Kris Murray"
+    },
+    {
+      "player_id": 1629004,
+      "name": "Svi Mykhailiuk"
+    },
+    {
+      "player_id": 1631250,
+      "name": "Pete Nance"
+    },
+    {
+      "player_id": 1626204,
+      "name": "Larry Nance Jr."
+    },
+    {
+      "player_id": 1629614,
+      "name": "Andrew Nembhard"
+    },
+    {
+      "player_id": 1630174,
+      "name": "Aaron Nesmith"
+    },
+    {
+      "player_id": 1641803,
+      "name": "Tristen Newton"
+    },
+    {
+      "player_id": 1627777,
+      "name": "Georges Niang"
+    },
+    {
+      "player_id": 1630227,
+      "name": "Daishen Nix"
+    },
+    {
+      "player_id": 1630192,
+      "name": "Zeke Nnaji"
+    },
+    {
+      "player_id": 1641936,
+      "name": "Miles Norris"
+    },
+    {
+      "player_id": 1629669,
+      "name": "Jaylen Nowell"
+    },
+    {
+      "player_id": 203994,
+      "name": "Jusuf Nurki\u0107"
+    },
+    {
+      "player_id": 1626220,
+      "name": "Royce O'Neale"
+    },
+    {
+      "player_id": 1626143,
+      "name": "Jahlil Okafor"
+    },
+    {
+      "player_id": 1629643,
+      "name": "Chuma Okeke"
+    },
+    {
+      "player_id": 1629006,
+      "name": "Josh Okogie"
+    },
+    {
+      "player_id": 1630168,
+      "name": "Onyeka Okongwu"
+    },
+    {
+      "player_id": 1630171,
+      "name": "Isaac Okoro"
+    },
+    {
+      "player_id": 1642439,
+      "name": "Quincy Olivari"
+    },
+    {
+      "player_id": 203482,
+      "name": "Kelly Olynyk"
+    },
+    {
+      "player_id": 1626162,
+      "name": "Kelly Oubre Jr."
+    },
+    {
+      "player_id": 101108,
+      "name": "Chris Paul"
+    },
+    {
+      "player_id": 1626166,
+      "name": "Cameron Payne"
+    },
+    {
+      "player_id": 203901,
+      "name": "Elfrid Payton"
+    },
+    {
+      "player_id": 1627780,
+      "name": "Gary Payton II"
+    },
+    {
+      "player_id": 1641809,
+      "name": "Drew Peterson"
+    },
+    {
+      "player_id": 1641763,
+      "name": "Julian Phillips"
+    },
+    {
+      "player_id": 1629618,
+      "name": "Jalen Pickett"
+    },
+    {
+      "player_id": 1630590,
+      "name": "Scotty Pippen Jr."
+    },
+    {
+      "player_id": 1631342,
+      "name": "Daeqwon Plowden"
+    },
+    {
+      "player_id": 203486,
+      "name": "Mason Plumlee"
+    },
+    {
+      "player_id": 1641764,
+      "name": "Brandin Podziemski"
+    },
+    {
+      "player_id": 1627751,
+      "name": "Jakob Poeltl"
+    },
+    {
+      "player_id": 1629673,
+      "name": "Jordan Poole"
+    },
+    {
+      "player_id": 1641854,
+      "name": "Craig Porter Jr."
+    },
+    {
+      "player_id": 1629645,
+      "name": "Kevin Porter Jr."
+    },
+    {
+      "player_id": 1629008,
+      "name": "Michael Porter Jr."
+    },
+    {
+      "player_id": 1626171,
+      "name": "Bobby Portis"
+    },
+    {
+      "player_id": 204001,
+      "name": "Kristaps Porzi\u0146\u0123is"
+    },
+    {
+      "player_id": 1642366,
+      "name": "Quinten Post"
+    },
+    {
+      "player_id": 1630695,
+      "name": "Micah Potter"
+    },
+    {
+      "player_id": 203939,
+      "name": "Dwight Powell"
+    },
+    {
+      "player_id": 1626181,
+      "name": "Norman Powell"
+    },
+    {
+      "player_id": 1627752,
+      "name": "Taurean Prince"
+    },
+    {
+      "player_id": 1630202,
+      "name": "Payton Pritchard"
+    },
+    {
+      "player_id": 1641765,
+      "name": "Olivier-Maxence Prosper"
+    },
+    {
+      "player_id": 1642389,
+      "name": "Zyon Pullin"
+    },
+    {
+      "player_id": 1630243,
+      "name": "Trevelin Queen"
+    },
+    {
+      "player_id": 1629674,
+      "name": "Neemias Queta"
+    },
+    {
+      "player_id": 1630193,
+      "name": "Immanuel Quickley"
+    },
+    {
+      "player_id": 1631311,
+      "name": "Lester Quinones"
+    },
+    {
+      "player_id": 203944,
+      "name": "Julius Randle"
+    },
+    {
+      "player_id": 1641871,
+      "name": "Duop Reath"
+    },
+    {
+      "player_id": 1630559,
+      "name": "Austin Reaves"
+    },
+    {
+      "player_id": 1629629,
+      "name": "Cam Reddish"
+    },
+    {
+      "player_id": 1630194,
+      "name": "Paul Reed"
+    },
+    {
+      "player_id": 1642024,
+      "name": "Alex Reese"
+    },
+    {
+      "player_id": 1641810,
+      "name": "Antonio Reeves"
+    },
+    {
+      "player_id": 1629675,
+      "name": "Naz Reid"
+    },
+    {
+      "player_id": 1631197,
+      "name": "Jared Rhoden"
+    },
+    {
+      "player_id": 1630208,
+      "name": "Nick Richards"
+    },
+    {
+      "player_id": 1626196,
+      "name": "Josh Richardson"
+    },
+    {
+      "player_id": 1642258,
+      "name": "Zaccharie Risacher"
+    },
+    {
+      "player_id": 1641857,
+      "name": "Liam Robbins"
+    },
+    {
+      "player_id": 1629130,
+      "name": "Duncan Robinson"
+    },
+    {
+      "player_id": 1629011,
+      "name": "Mitchell Robinson"
+    },
+    {
+      "player_id": 1631115,
+      "name": "Orlando Robinson"
+    },
+    {
+      "player_id": 1630526,
+      "name": "Jeremiah Robinson-Earl"
+    },
+    {
+      "player_id": 1631223,
+      "name": "David Roddy"
+    },
+    {
+      "player_id": 1631157,
+      "name": "Ryan Rollins"
+    },
+    {
+      "player_id": 1642050,
+      "name": "Jackson Rowe"
+    },
+    {
+      "player_id": 1626179,
+      "name": "Terry Rozier"
+    },
+    {
+      "player_id": 1641712,
+      "name": "Rayan Rupert"
+    },
+    {
+      "player_id": 1626156,
+      "name": "D'Angelo Russell"
+    },
+    {
+      "player_id": 1630346,
+      "name": "Matt Ryan"
+    },
+    {
+      "player_id": 1627734,
+      "name": "Domantas Sabonis"
+    },
+    {
+      "player_id": 1642275,
+      "name": "Tidjane Sala\u00fcn"
+    },
+    {
+      "player_id": 1641766,
+      "name": "Adama Sanogo"
+    },
+    {
+      "player_id": 1630611,
+      "name": "Gui Santos"
+    },
+    {
+      "player_id": 1642259,
+      "name": "Alex Sarr"
+    },
+    {
+      "player_id": 1631204,
+      "name": "Marcus Sasser"
+    },
+    {
+      "player_id": 1631248,
+      "name": "Baylor Scheierman"
+    },
+    {
+      "player_id": 203471,
+      "name": "Dennis Schr\u00f6der"
+    },
+    {
+      "player_id": 1630578,
+      "name": "Alperen Sengun"
+    },
+    {
+      "player_id": 1641729,
+      "name": "Brice Sensabaugh"
+    },
+    {
+      "player_id": 1629012,
+      "name": "Collin Sexton"
+    },
+    {
+      "player_id": 1629013,
+      "name": "Landry Shamet"
+    },
+    {
+      "player_id": 1630545,
+      "name": "Terrence Shannon Jr."
+    },
+    {
+      "player_id": 1630549,
+      "name": "Day'Ron Sharpe"
+    },
+    {
+      "player_id": 1631101,
+      "name": "Shaedon Sharpe"
+    },
+    {
+      "player_id": 1642347,
+      "name": "Jamal Shead"
+    },
+    {
+      "player_id": 1641767,
+      "name": "Ben Sheppard"
+    },
+    {
+      "player_id": 1642263,
+      "name": "Reed Sheppard"
+    },
+    {
+      "player_id": 1627783,
+      "name": "Pascal Siakam"
+    },
+    {
+      "player_id": 1627732,
+      "name": "Ben Simmons"
+    },
+    {
+      "player_id": 1629014,
+      "name": "Anfernee Simons"
+    },
+    {
+      "player_id": 1642354,
+      "name": "KJ Simpson"
+    },
+    {
+      "player_id": 1631301,
+      "name": "Jaylen Sims"
+    },
+    {
+      "player_id": 1630579,
+      "name": "Jericho Sims"
+    },
+    {
+      "player_id": 203935,
+      "name": "Marcus Smart"
+    },
+    {
+      "player_id": 1630696,
+      "name": "Dru Smith"
+    },
+    {
+      "player_id": 1630188,
+      "name": "Jalen Smith"
+    },
+    {
+      "player_id": 1642449,
+      "name": "Tolu Smith"
+    },
+    {
+      "player_id": 1641890,
+      "name": "Tyler Smith"
+    },
+    {
+      "player_id": 1631095,
+      "name": "Jabari Smith Jr."
+    },
+    {
+      "player_id": 1641733,
+      "name": "Nick Smith Jr."
+    },
+    {
+      "player_id": 1631110,
+      "name": "Jeremy Sochan"
+    },
+    {
+      "player_id": 1642285,
+      "name": "Cam Spencer"
+    },
+    {
+      "player_id": 1630311,
+      "name": "Pat Spencer"
+    },
+    {
+      "player_id": 1630531,
+      "name": "Jaden Springer"
+    },
+    {
+      "player_id": 1641815,
+      "name": "Isaiah Stevens"
+    },
+    {
+      "player_id": 1630205,
+      "name": "Lamar Stevens"
+    },
+    {
+      "player_id": 1630191,
+      "name": "Isaiah Stewart"
+    },
+    {
+      "player_id": 1631124,
+      "name": "Julian Strawther"
+    },
+    {
+      "player_id": 1629622,
+      "name": "Max Strus"
+    },
+    {
+      "player_id": 1630591,
+      "name": "Jalen Suggs"
+    },
+    {
+      "player_id": 1631306,
+      "name": "Cole Swider"
+    },
+    {
+      "player_id": 1630256,
+      "name": "Jae'Sean Tate"
+    },
+    {
+      "player_id": 1628369,
+      "name": "Jayson Tatum"
+    },
+    {
+      "player_id": 1630678,
+      "name": "Terry Taylor"
+    },
+    {
+      "player_id": 202066,
+      "name": "Garrett Temple"
+    },
+    {
+      "player_id": 1631207,
+      "name": "Dalen Terry"
+    },
+    {
+      "player_id": 1628464,
+      "name": "Daniel Theis"
+    },
+    {
+      "player_id": 1630560,
+      "name": "Cam Thomas"
+    },
+    {
+      "player_id": 1641708,
+      "name": "Amen Thompson"
+    },
+    {
+      "player_id": 1641709,
+      "name": "Ausar Thompson"
+    },
+    {
+      "player_id": 202691,
+      "name": "Klay Thompson"
+    },
+    {
+      "player_id": 202684,
+      "name": "Tristan Thompson"
+    },
+    {
+      "player_id": 1630550,
+      "name": "JT Thor"
+    },
+    {
+      "player_id": 1629680,
+      "name": "Matisse Thybulle"
+    },
+    {
+      "player_id": 1630214,
+      "name": "Xavier Tillman"
+    },
+    {
+      "player_id": 1631166,
+      "name": "Drew Timme"
+    },
+    {
+      "player_id": 1641772,
+      "name": "Nae'Qwan Tomlin"
+    },
+    {
+      "player_id": 1631210,
+      "name": "Jacob Toppin"
+    },
+    {
+      "player_id": 1630167,
+      "name": "Obi Toppin"
+    },
+    {
+      "player_id": 1626157,
+      "name": "Karl-Anthony Towns"
+    },
+    {
+      "player_id": 1642422,
+      "name": "Armel Traore"
+    },
+    {
+      "player_id": 1631247,
+      "name": "Luke Travers"
+    },
+    {
+      "player_id": 1629018,
+      "name": "Gary Trent Jr."
+    },
+    {
+      "player_id": 1631131,
+      "name": "Oscar Tshiebwe"
+    },
+    {
+      "player_id": 200782,
+      "name": "P.J. Tucker"
+    },
+    {
+      "player_id": 1626167,
+      "name": "Myles Turner"
+    },
+    {
+      "player_id": 1641816,
+      "name": "Hunter Tyson"
+    },
+    {
+      "player_id": 1642281,
+      "name": "Jaylon Tyson"
+    },
+    {
+      "player_id": 1630649,
+      "name": "Stanley Umude"
+    },
+    {
+      "player_id": 202685,
+      "name": "Jonas Valan\u010di\u016bnas"
+    },
+    {
+      "player_id": 1627832,
+      "name": "Fred VanVleet"
+    },
+    {
+      "player_id": 1629020,
+      "name": "Jarred Vanderbilt"
+    },
+    {
+      "player_id": 1630170,
+      "name": "Devin Vassell"
+    },
+    {
+      "player_id": 1629216,
+      "name": "Gabe Vincent"
+    },
+    {
+      "player_id": 1641774,
+      "name": "Tristan Vukcevic"
+    },
+    {
+      "player_id": 202696,
+      "name": "Nikola Vu\u010devi\u0107"
+    },
+    {
+      "player_id": 1629731,
+      "name": "Dean Wade"
+    },
+    {
+      "player_id": 1630532,
+      "name": "Franz Wagner"
+    },
+    {
+      "player_id": 1629021,
+      "name": "Moritz Wagner"
+    },
+    {
+      "player_id": 1631133,
+      "name": "Jabari Walker"
+    },
+    {
+      "player_id": 1641716,
+      "name": "Jarace Walker"
+    },
+    {
+      "player_id": 1629022,
+      "name": "Lonnie Walker IV"
+    },
+    {
+      "player_id": 1641717,
+      "name": "Cason Wallace"
+    },
+    {
+      "player_id": 1630811,
+      "name": "Keaton Wallace"
+    },
+    {
+      "player_id": 1641775,
+      "name": "Jordan Walsh"
+    },
+    {
+      "player_id": 1642266,
+      "name": "Ja'Kobe Walter"
+    },
+    {
+      "player_id": 1642276,
+      "name": "Kel'el Ware"
+    },
+    {
+      "player_id": 1629023,
+      "name": "P.J. Washington"
+    },
+    {
+      "player_id": 1631102,
+      "name": "TyTy Washington Jr."
+    },
+    {
+      "player_id": 1630322,
+      "name": "Lindy Waters III"
+    },
+    {
+      "player_id": 1630570,
+      "name": "Trendon Watford"
+    },
+    {
+      "player_id": 1641817,
+      "name": "Anton Watson"
+    },
+    {
+      "player_id": 1631212,
+      "name": "Peyton Watson"
+    },
+    {
+      "player_id": 1642377,
+      "name": "Jaylen Wells"
+    },
+    {
+      "player_id": 1641705,
+      "name": "Victor Wembanyama"
+    },
+    {
+      "player_id": 1631104,
+      "name": "Blake Wesley"
+    },
+    {
+      "player_id": 201566,
+      "name": "Russell Westbrook"
+    },
+    {
+      "player_id": 1630762,
+      "name": "Phillip Wheeler"
+    },
+    {
+      "player_id": 1629632,
+      "name": "Coby White"
+    },
+    {
+      "player_id": 1628401,
+      "name": "Derrick White"
+    },
+    {
+      "player_id": 1641727,
+      "name": "Dariq Whitehead"
+    },
+    {
+      "player_id": 1641715,
+      "name": "Cam Whitmore"
+    },
+    {
+      "player_id": 1630598,
+      "name": "Aaron Wiggins"
+    },
+    {
+      "player_id": 203952,
+      "name": "Andrew Wiggins"
+    },
+    {
+      "player_id": 1631214,
+      "name": "Alondes Williams"
+    },
+    {
+      "player_id": 1630314,
+      "name": "Brandon Williams"
+    },
+    {
+      "player_id": 1642262,
+      "name": "Cody Williams"
+    },
+    {
+      "player_id": 1629684,
+      "name": "Grant Williams"
+    },
+    {
+      "player_id": 1631114,
+      "name": "Jalen Williams"
+    },
+    {
+      "player_id": 1631119,
+      "name": "Jaylin Williams"
+    },
+    {
+      "player_id": 1629026,
+      "name": "Kenrich Williams"
+    },
+    {
+      "player_id": 1631109,
+      "name": "Mark Williams"
+    },
+    {
+      "player_id": 1631466,
+      "name": "Nate Williams"
+    },
+    {
+      "player_id": 1630172,
+      "name": "Patrick Williams"
+    },
+    {
+      "player_id": 1630533,
+      "name": "Ziaire Williams"
+    },
+    {
+      "player_id": 1629057,
+      "name": "Robert Williams III"
+    },
+    {
+      "player_id": 1631246,
+      "name": "Vince Williams Jr."
+    },
+    {
+      "player_id": 1629627,
+      "name": "Zion Williamson"
+    },
+    {
+      "player_id": 1630592,
+      "name": "Jalen Wilson"
+    },
+    {
+      "player_id": 1630164,
+      "name": "James Wiseman"
+    },
+    {
+      "player_id": 1631209,
+      "name": "Isaiah Wong"
+    },
+    {
+      "player_id": 1626153,
+      "name": "Delon Wright"
+    },
+    {
+      "player_id": 1627824,
+      "name": "Guerschon Yabusele"
+    },
+    {
+      "player_id": 1642385,
+      "name": "Cui Yongxi"
+    },
+    {
+      "player_id": 1642443,
+      "name": "Jahmir Young"
+    },
+    {
+      "player_id": 1629027,
+      "name": "Trae Young"
+    },
+    {
+      "player_id": 1627826,
+      "name": "Ivica Zubac"
+    },
+    {
+      "player_id": 1641783,
+      "name": "Tristan da Silva"
+    },
+    {
+      "player_id": 1628427,
+      "name": "Vlatko \u010can\u010dar"
+    },
+    {
+      "player_id": 203967,
+      "name": "Dario \u0160ari\u0107"
+    }
+  ]
+}

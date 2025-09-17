@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "GAME_DATE": "Feb 25, 2025",
+      "MATCHUP": "GSW vs. CHA",
+      "MIN": 10.0,
+      "FGM": 0,
+      "FGA": 0,
+      "FG3M": 0,
+      "FG3A": 0,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 1,
+      "DREB": 0,
+      "REB": 1,
+      "AST": 3,
+      "STL": 1,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 2,
+      "PTS": 0,
+      "PLUS_MINUS": -1
+    },
+    {
+      "GAME_DATE": "Feb 23, 2025",
+      "MATCHUP": "GSW vs. DAL",
+      "MIN": 6.0,
+      "FGM": 1,
+      "FGA": 3,
+      "FG3M": 0,
+      "FG3A": 0,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 1,
+      "DREB": 1,
+      "REB": 2,
+      "AST": 1,
+      "STL": 1,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 3,
+      "PTS": 2,
+      "PLUS_MINUS": -4
+    }
+  ]
+}

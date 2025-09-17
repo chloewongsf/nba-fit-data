@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "GAME_DATE": "Nov 23, 2024",
+      "MATCHUP": "DET @ ORL",
+      "MIN": 4.0,
+      "FGM": 2,
+      "FGA": 2,
+      "FG3M": 1,
+      "FG3A": 1,
+      "FTM": 0,
+      "FTA": 0,
+      "OREB": 0,
+      "DREB": 0,
+      "REB": 0,
+      "AST": 1,
+      "STL": 0,
+      "BLK": 0,
+      "TOV": 0,
+      "PF": 0,
+      "PTS": 5,
+      "PLUS_MINUS": 6
+    }
+  ]
+}
