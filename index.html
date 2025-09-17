@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Fit Data Repository</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .description {
+            font-size: 1.1em;
+            color: #666;
+            margin: 20px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 15px 0;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-left: 4px solid #3498db;
+            border-radius: 4px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>NBA Fit Data Repository</h1>
+    
+    <p class="description">
+        Static JSON data for the NBA Fit project. This repository contains NBA player statistics 
+        and game logs for the 2024-25 season, served via GitHub Pages for the NBA Fit application.
+    </p>
+    
+    <h2>Available Data</h2>
+    <ul>
+        <li>
+            <a href="active_players.json">active_players.json</a><br>
+            <small>Complete list of active NBA players for the 2024-25 season</small>
+        </li>
+        <li>
+            <a href="players/">players/ directory</a><br>
+            <small>Individual player data including game logs, biographical information, and season statistics</small>
+        </li>
+    </ul>
+    
+    <h2>Data Structure</h2>
+    <p>Each player has three JSON files:</p>
+    <ul>
+        <li><strong>{player_id}_gamelog.json</strong> - Game-by-game statistics</li>
+        <li><strong>{player_id}_info.json</strong> - Player biographical information</li>
+        <li><strong>{player_id}_season_stats.json</strong> - Calculated season averages</li>
+    </ul>
+    
+    <div class="footer">
+        <p>
+            This data is automatically generated from the NBA API and updated regularly. 
+            For more information about the NBA Fit project, visit the main repository.
+        </p>
+    </div>
+</body>
+</html>
