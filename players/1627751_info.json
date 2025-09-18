@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-0",
     "weight": "260",
-    "age": 0,
+    "age": 29,
+    "birthdate": "1995-10-15T00:00:00",
     "team": "Raptors",
     "jersey": "19"
   }

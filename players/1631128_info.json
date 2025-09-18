@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "220",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2001-04-17T00:00:00",
     "team": "Nuggets",
     "jersey": "0"
   }

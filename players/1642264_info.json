@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "215",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2004-11-01T00:00:00",
     "team": "Spurs",
     "jersey": "5"
   }

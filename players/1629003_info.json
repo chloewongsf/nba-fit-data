@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "205",
-    "age": 0,
+    "age": 28,
+    "birthdate": "1996-09-26T00:00:00",
     "team": "Lakers",
     "jersey": "20"
   }

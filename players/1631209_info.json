@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-3",
     "weight": "185",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2001-01-28T00:00:00",
     "team": "",
     "jersey": ""
   }

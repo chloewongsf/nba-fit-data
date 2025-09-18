@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "185",
-    "age": 0,
+    "age": 33,
+    "birthdate": "1992-04-26T00:00:00",
     "team": "Knicks",
     "jersey": "0"
   }

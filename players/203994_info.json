@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-0",
     "weight": "290",
-    "age": 0,
+    "age": 31,
+    "birthdate": "1994-08-23T00:00:00",
     "team": "Jazz",
     "jersey": "30"
   }

@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-2",
     "weight": "200",
-    "age": 0,
+    "age": 34,
+    "birthdate": "1991-08-20T00:00:00",
     "team": "Magic",
     "jersey": "10"
   }

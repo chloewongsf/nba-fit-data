@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-8",
     "weight": "207",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2005-08-10T00:00:00",
     "team": "Hornets",
     "jersey": "31"
   }

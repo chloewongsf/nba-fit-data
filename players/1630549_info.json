@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-9",
     "weight": "265",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2001-11-06T00:00:00",
     "team": "Nets",
     "jersey": "20"
   }

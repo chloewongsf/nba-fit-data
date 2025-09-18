@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "210",
-    "age": 0,
+    "age": 26,
+    "birthdate": "1999-08-27T00:00:00",
     "team": "Raptors",
     "jersey": "8"
   }

@@ -3,7 +3,8 @@
     "position": "Forward-Center",
     "height": "7-2",
     "weight": "240",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1995-08-02T00:00:00",
     "team": "Hawks",
     "jersey": "8"
   }

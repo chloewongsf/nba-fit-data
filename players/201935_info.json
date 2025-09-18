@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "220",
-    "age": 0,
+    "age": 36,
+    "birthdate": "1989-08-26T00:00:00",
     "team": "Clippers",
     "jersey": "1"
   }

@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "210",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2004-12-17T00:00:00",
     "team": "Grizzlies",
     "jersey": "45"
   }

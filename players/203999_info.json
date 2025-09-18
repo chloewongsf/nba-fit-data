@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-11",
     "weight": "284",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1995-02-19T00:00:00",
     "team": "Nuggets",
     "jersey": "15"
   }

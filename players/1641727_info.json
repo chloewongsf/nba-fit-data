@@ -3,7 +3,8 @@
     "position": "Guard-Forward",
     "height": "6-6",
     "weight": "220",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2004-08-01T00:00:00",
     "team": "Nets",
     "jersey": "0"
   }

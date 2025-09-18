@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-4",
     "weight": "234",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2000-11-25T00:00:00",
     "team": "Bulls",
     "jersey": "22"
   }

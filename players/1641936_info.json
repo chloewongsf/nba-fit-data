@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-7",
     "weight": "220",
-    "age": 0,
+    "age": 25,
+    "birthdate": "2000-04-15T00:00:00",
     "team": "Celtics",
     "jersey": "0"
   }

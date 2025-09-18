@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-3",
     "weight": "180",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2002-07-03T00:00:00",
     "team": "Bucks",
     "jersey": "13"
   }

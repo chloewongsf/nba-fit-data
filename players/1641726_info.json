@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-1",
     "weight": "230",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2004-02-12T00:00:00",
     "team": "Mavericks",
     "jersey": "2"
   }

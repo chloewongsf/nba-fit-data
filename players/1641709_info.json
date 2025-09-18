@@ -3,7 +3,8 @@
     "position": "Guard-Forward",
     "height": "6-6",
     "weight": "205",
-    "age": 0,
+    "age": 22,
+    "birthdate": "2003-01-30T00:00:00",
     "team": "Pistons",
     "jersey": "9"
   }

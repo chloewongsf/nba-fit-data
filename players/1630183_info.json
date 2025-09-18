@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "185",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2000-09-29T00:00:00",
     "team": "Timberwolves",
     "jersey": "3"
   }

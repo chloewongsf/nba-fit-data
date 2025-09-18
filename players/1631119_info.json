@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "240",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2002-06-29T00:00:00",
     "team": "Thunder",
     "jersey": "6"
   }

@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-2",
     "weight": "174",
-    "age": 0,
+    "age": 26,
+    "birthdate": "1999-08-10T00:00:00",
     "team": "Grizzlies",
     "jersey": "12"
   }

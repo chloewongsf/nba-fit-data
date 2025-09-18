@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-8",
     "weight": "205",
-    "age": 0,
+    "age": 22,
+    "birthdate": "2003-01-09T00:00:00",
     "team": "Hawks",
     "jersey": "2"
   }

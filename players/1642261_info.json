@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-6",
     "weight": "215",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2001-04-19T00:00:00",
     "team": "Lakers",
     "jersey": "4"
   }

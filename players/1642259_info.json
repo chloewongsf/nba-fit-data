@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-0",
     "weight": "205",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2005-04-26T00:00:00",
     "team": "Wizards",
     "jersey": "20"
   }

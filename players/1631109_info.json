@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-0",
     "weight": "240",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2001-12-16T00:00:00",
     "team": "Suns",
     "jersey": "15"
   }

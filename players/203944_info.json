@@ -3,7 +3,8 @@
     "position": "Forward-Center",
     "height": "6-9",
     "weight": "250",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1994-11-29T00:00:00",
     "team": "Timberwolves",
     "jersey": "30"
   }

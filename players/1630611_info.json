@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-6",
     "weight": "185",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2002-06-22T00:00:00",
     "team": "Warriors",
     "jersey": "15"
   }

@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-5",
     "weight": "221",
-    "age": 0,
+    "age": 34,
+    "birthdate": "1990-12-19T00:00:00",
     "team": "Celtics",
     "jersey": "12"
   }

@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "206",
-    "age": 0,
+    "age": 28,
+    "birthdate": "1996-10-30T00:00:00",
     "team": "Suns",
     "jersey": "1"
   }

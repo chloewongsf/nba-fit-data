@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-10",
     "weight": "245",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2002-02-21T00:00:00",
     "team": "Grizzlies",
     "jersey": "13"
   }

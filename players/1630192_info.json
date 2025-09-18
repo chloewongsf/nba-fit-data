@@ -3,7 +3,8 @@
     "position": "Forward-Center",
     "height": "6-9",
     "weight": "240",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2001-01-09T00:00:00",
     "team": "Nuggets",
     "jersey": "22"
   }

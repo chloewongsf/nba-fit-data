@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "210",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2001-03-15T00:00:00",
     "team": "Knicks",
     "jersey": "9"
   }

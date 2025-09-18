@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "225",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2001-10-29T00:00:00",
     "team": "Raptors",
     "jersey": "2"
   }

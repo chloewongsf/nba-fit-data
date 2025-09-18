@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-10",
     "weight": "260",
-    "age": 0,
+    "age": 34,
+    "birthdate": "1990-10-24T00:00:00",
     "team": "Bulls",
     "jersey": "9"
   }

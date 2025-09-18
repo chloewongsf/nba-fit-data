@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "221",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1995-07-24T00:00:00",
     "team": "Bucks",
     "jersey": "18"
   }

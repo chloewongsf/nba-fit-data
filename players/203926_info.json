@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-6",
     "weight": "225",
-    "age": 0,
+    "age": 33,
+    "birthdate": "1992-01-03T00:00:00",
     "team": "Kings",
     "jersey": "7"
   }

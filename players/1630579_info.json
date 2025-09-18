@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-10",
     "weight": "250",
-    "age": 0,
+    "age": 26,
+    "birthdate": "1998-10-20T00:00:00",
     "team": "Bucks",
     "jersey": "00"
   }

@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-10",
     "weight": "243",
-    "age": 0,
+    "age": 26,
+    "birthdate": "1998-12-27T00:00:00",
     "team": "Celtics",
     "jersey": "52"
   }

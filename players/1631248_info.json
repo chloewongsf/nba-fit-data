@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "205",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2000-09-26T00:00:00",
     "team": "Celtics",
     "jersey": "55"
   }

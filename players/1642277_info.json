@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-9",
     "weight": "200",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2004-12-08T00:00:00",
     "team": "Pacers",
     "jersey": "12"
   }

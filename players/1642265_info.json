@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-3",
     "weight": "175",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2005-01-04T00:00:00",
     "team": "Timberwolves",
     "jersey": "4"
   }

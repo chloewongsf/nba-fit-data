@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-0",
     "weight": "230",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2004-04-20T00:00:00",
     "team": "Heat",
     "jersey": "7"
   }

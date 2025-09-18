@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "215",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2003-11-22T00:00:00",
     "team": "Jazz",
     "jersey": "0"
   }

@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-4",
     "weight": "185",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2003-11-08T00:00:00",
     "team": "Jazz",
     "jersey": "3"
   }

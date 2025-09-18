@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-7",
     "weight": "195",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2002-07-12T00:00:00",
     "team": "Bulls",
     "jersey": "7"
   }

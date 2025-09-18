@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-1",
     "weight": "258",
-    "age": 0,
+    "age": 33,
+    "birthdate": "1992-06-26T00:00:00",
     "team": "Timberwolves",
     "jersey": "27"
   }

@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-0",
     "weight": "179",
-    "age": 0,
+    "age": 27,
+    "birthdate": "1998-04-12T00:00:00",
     "team": "Pelicans",
     "jersey": "15"
   }

@@ -3,7 +3,8 @@
     "position": "Forward-Guard",
     "height": "6-6",
     "weight": "230",
-    "age": 0,
+    "age": 26,
+    "birthdate": "1999-02-28T00:00:00",
     "team": "Lakers",
     "jersey": "77"
   }

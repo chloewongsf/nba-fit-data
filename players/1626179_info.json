@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-1",
     "weight": "190",
-    "age": 0,
+    "age": 31,
+    "birthdate": "1994-03-17T00:00:00",
     "team": "Heat",
     "jersey": "2"
   }

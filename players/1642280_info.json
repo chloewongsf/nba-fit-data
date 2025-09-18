@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-9",
     "weight": "185",
-    "age": 0,
+    "age": 20,
+    "birthdate": "2005-03-08T00:00:00",
     "team": "Clippers",
     "jersey": "9"
   }

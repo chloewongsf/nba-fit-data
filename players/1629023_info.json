@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-6",
     "weight": "230",
-    "age": 0,
+    "age": 27,
+    "birthdate": "1998-08-23T00:00:00",
     "team": "Mavericks",
     "jersey": "25"
   }

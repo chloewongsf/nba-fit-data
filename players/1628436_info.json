@@ -3,7 +3,8 @@
     "position": "Center-Forward",
     "height": "7-1",
     "weight": "250",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1995-07-15T00:00:00",
     "team": "Spurs",
     "jersey": "7"
   }

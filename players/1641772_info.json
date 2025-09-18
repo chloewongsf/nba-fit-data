@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-10",
     "weight": "210",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2000-12-19T00:00:00",
     "team": "Cavaliers",
     "jersey": "30"
   }

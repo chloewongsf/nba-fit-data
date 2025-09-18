@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-3",
     "weight": "165",
-    "age": 0,
+    "age": 26,
+    "birthdate": "1999-07-02T00:00:00",
     "team": "Thunder",
     "jersey": "11"
   }

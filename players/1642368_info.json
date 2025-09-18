@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "6-11",
     "weight": "230",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2001-10-19T00:00:00",
     "team": "Hawks",
     "jersey": "3"
   }

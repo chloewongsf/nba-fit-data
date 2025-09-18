@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-10",
     "weight": "250",
-    "age": 0,
+    "age": 22,
+    "birthdate": "2002-11-12T00:00:00",
     "team": "Magic",
     "jersey": "5"
   }

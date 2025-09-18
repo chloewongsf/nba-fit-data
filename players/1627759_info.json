@@ -3,7 +3,8 @@
     "position": "Guard-Forward",
     "height": "6-6",
     "weight": "223",
-    "age": 0,
+    "age": 28,
+    "birthdate": "1996-10-24T00:00:00",
     "team": "Celtics",
     "jersey": "7"
   }

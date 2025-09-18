@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-8",
     "weight": "220",
-    "age": 0,
+    "age": 35,
+    "birthdate": "1990-05-02T00:00:00",
     "team": "76ers",
     "jersey": "8"
   }

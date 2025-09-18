@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "214",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1995-07-13T00:00:00",
     "team": "Mavericks",
     "jersey": "0"
   }

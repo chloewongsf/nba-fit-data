@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "216",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2004-01-28T00:00:00",
     "team": "Wizards",
     "jersey": "4"
   }

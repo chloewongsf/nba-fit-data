@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-8",
     "weight": "203",
-    "age": 0,
+    "age": 25,
+    "birthdate": "1999-11-07T00:00:00",
     "team": "Trail Blazers",
     "jersey": "5"
   }

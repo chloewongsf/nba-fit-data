@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "200",
-    "age": 0,
+    "age": 30,
+    "birthdate": "1995-03-10T00:00:00",
     "team": "Kings",
     "jersey": "8"
   }

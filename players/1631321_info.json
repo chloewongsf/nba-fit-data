@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-6",
     "weight": "200",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2004-04-02T00:00:00",
     "team": "Trail Blazers",
     "jersey": "25"
   }

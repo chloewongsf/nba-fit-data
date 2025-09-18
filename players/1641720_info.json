@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-5",
     "weight": "210",
-    "age": 0,
+    "age": 22,
+    "birthdate": "2003-06-19T00:00:00",
     "team": "76ers",
     "jersey": "17"
   }

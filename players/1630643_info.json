@@ -3,7 +3,8 @@
     "position": "Center",
     "height": "7-1",
     "weight": "240",
-    "age": 0,
+    "age": 28,
+    "birthdate": "1997-08-25T00:00:00",
     "team": "Pacers",
     "jersey": "32"
   }

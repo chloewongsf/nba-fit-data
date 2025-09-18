@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-4",
     "weight": "205",
-    "age": 0,
+    "age": 29,
+    "birthdate": "1996-05-15T00:00:00",
     "team": "Cavaliers",
     "jersey": "5"
   }

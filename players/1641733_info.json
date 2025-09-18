@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-2",
     "weight": "185",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2004-04-18T00:00:00",
     "team": "Hornets",
     "jersey": "3"
   }

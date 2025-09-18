@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-6",
     "weight": "220",
-    "age": 0,
+    "age": 23,
+    "birthdate": "2001-11-01T00:00:00",
     "team": "Rockets",
     "jersey": "24"
   }

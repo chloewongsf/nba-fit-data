@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-3",
     "weight": "165",
-    "age": 0,
+    "age": 24,
+    "birthdate": "2001-08-17T00:00:00",
     "team": "Pistons",
     "jersey": "24"
   }

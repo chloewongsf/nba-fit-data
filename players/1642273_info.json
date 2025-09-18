@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-8",
     "weight": "200",
-    "age": 0,
+    "age": 21,
+    "birthdate": "2003-12-12T00:00:00",
     "team": "Wizards",
     "jersey": "18"
   }
