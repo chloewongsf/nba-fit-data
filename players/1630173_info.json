@@ -3,7 +3,8 @@
     "position": "Forward",
     "height": "6-8",
     "weight": "243",
-    "age": 0,
+    "age": 25,
+    "birthdate": "1999-09-19T00:00:00",
     "team": "Knicks",
     "jersey": "5"
   }

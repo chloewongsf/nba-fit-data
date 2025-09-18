@@ -3,7 +3,8 @@
     "position": "Guard",
     "height": "6-2",
     "weight": "185",
-    "age": 0,
+    "age": 37,
+    "birthdate": "1988-03-14T00:00:00",
     "team": "Warriors",
     "jersey": "30"
   }
